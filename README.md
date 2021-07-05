@@ -19,57 +19,59 @@
 <table>
   <tr>
     <th>S.No</th>
-    <th>Easy</th>
-    <th>Medium</th>
+    <th>Easy Projects</th>
   </tr>
   <tr>
     <td>1.</td>
     <td>Simple Tic-Tac-Toe</td>
-    <td>Simple Banking System</td>
+    
   </tr>
   <tr>
     <td>2.</td>
     <td>Zookepper</td>
-    <td>Arithmetic Exam Application</td>
+    
   </tr>
   <tr>
     <td>3.</td>
     <td>Coffee Machine</td>
-    <td>Rock-Paper-Scissors</td>
+    
   </tr>
   <tr>
     <td>4.</td>
     <td>Loan Calculator</td>
-    <td></td>
+    
   </tr>
   <tr>
     <td>5.</td>
     <td>Hangman</td>
-    <td></td>
+    
   </tr>
   <tr>
     <td>6.</td>
     <td>Simple Chatty Bot</td>
-    <td></td>
+    
   </tr>
   <tr>
     <td>7.</td>
     <td>Bill Splitter</td>
-    <td></td>
+    
+  </tr>
+</table>  
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Medium Projects</th>
   </tr>
   <tr>
-    <td>8.</td>
-    <td></td>
-    <td></td>
+    <td>1.</td>
+    <td>Simple Banking System</td>
   </tr>
   <tr>
-    <td>9.</td>
-    <td></td>
-    <td></td>
+    <td>2.</td>
+    <td>Arithmetic Exam Application</td>
   </tr>
   <tr>
-    <td>10.</td>
-    <td></td>
-    <td></td>
+    <td>3.</td>
+    <td>Rock-Paper-Scissors</td>
   </tr>
 </table>
