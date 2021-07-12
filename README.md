@@ -18,40 +18,49 @@
 ## Projects :
 <table>
   <tr>
+    
     <th>S.No</th>
     <th>Easy Projects</th>
+    
   </tr>
   <tr>
+    
     <td>1.</td>
     <td><a href="https://github.com/Mathesh099/Tic-Tac-Toe.git">Simple Tic-Tac-Toe</a></td>
     
   </tr>
   <tr>
+    
     <td>2.</td>
+    <td><a href="">Simple Chatty Bot</a></td>
+    
+  </tr>
+  <tr>
+    
+    <td>3.</td>
     <td>Zookepper</td>
     
   </tr>
   <tr>
-    <td>3.</td>
+    
+    <td>4.</td>
     <td>Coffee Machine</td>
     
   </tr>
   <tr>
-    <td>4.</td>
+    
+    <td>5.</td>
     <td>Loan Calculator</td>
     
   </tr>
   <tr>
-    <td>5.</td>
+    
+    <td>6.</td>
     <td>Hangman</td>
     
   </tr>
   <tr>
-    <td>6.</td>
-    <td>Simple Chatty Bot</td>
     
-  </tr>
-  <tr>
     <td>7.</td>
     <td>Bill Splitter</td>
     
@@ -59,19 +68,27 @@
 </table>  
 <table>
   <tr>
+    
     <th>S.No</th>
     <th>Medium Projects</th>
+    
   </tr>
   <tr>
+    
     <td>1.</td>
     <td>Simple Banking System</td>
+    
   </tr>
   <tr>
+    
     <td>2.</td>
     <td>Arithmetic Exam Application</td>
+    
   </tr>
   <tr>
+    
     <td>3.</td>
     <td>Rock-Paper-Scissors</td>
+    
   </tr>
 </table>
