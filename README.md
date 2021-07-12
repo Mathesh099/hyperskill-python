@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td>Simple Tic-Tac-Toe</td>
+    <td><a href="">Simple Tic-Tac-Toe</a></td>
     
   </tr>
   <tr>
