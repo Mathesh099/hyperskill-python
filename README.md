@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="">Simple Tic-Tac-Toe</a></td>
+    <td><a href="https://github.com/Mathesh099/Tic-Tac-Toe.git">Simple Tic-Tac-Toe</a></td>
     
   </tr>
   <tr>
