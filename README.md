@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="">Simple Chatty Bot</a></td>
+    <td><a href="https://github.com/Mathesh099/Simple-Chatty-Bot.git">Simple Chatty Bot</a></td>
   </tr>
   <tr>
     <td>3.</td>
