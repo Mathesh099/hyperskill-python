@@ -31,23 +31,23 @@
   </tr>
   <tr>
     <td>3.</td>
-    <td>Zookepper</td>
+    <td><a href="https://github.com/Mathesh099/Zookeeper.git">Zookepper</a></td>
   </tr>
   <tr>
     <td>4.</td>
-    <td>Coffee Machine</td>
+    <td><a href="https://github.com/Mathesh099/Coffee-Machine.git">Coffee Machine</a></td>
   </tr>
   <tr>
     <td>5.</td>
-    <td>Loan Calculator</td>
+    <td><a href="https://github.com/Mathesh099/Loan-Calculator.git">Loan Calculator</a></td>
   </tr>
   <tr>
     <td>6.</td>
-    <td>Hangman</td>
+    <td><a href="https://github.com/Mathesh099/Hangman.git">Hangman</a></td>
   </tr>
   <tr>
     <td>7.</td>
-    <td>Bill Splitter</td>
+    <td><a href="https://github.com/Mathesh099/Bill-Splitter.git">Bill Splitter</a></td>
   </tr>
 </table>  
 <table>
