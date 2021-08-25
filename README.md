@@ -57,14 +57,14 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td>Simple Banking System</td>
+    <td><a href="https://github.com/Mathesh099/Simple-Banking-System.git">Simple Banking System</a></td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Arithmetic Exam Application</td>
+    <td><a href="https://github.com/Mathesh099/Arithmetic-Exam-Application.git">Arithmetic Exam Application</a></td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>Rock-Paper-Scissors</td>
+    <td><a href="https://github.com/Mathesh099/Rock-Paper-Scissors.git">Rock-Paper-Scissors</a></td>
   </tr>
 </table>
