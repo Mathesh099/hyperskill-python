@@ -16,6 +16,7 @@
 - Let them practice with automated in-browser coding assignments. 
 
 ## Projects :
+
 <table>
   <tr>
     <th>S.No</th>
@@ -50,6 +51,7 @@
     <td><a href="https://github.com/Mathesh099/Bill-Splitter.git">Bill Splitter</a></td>
   </tr>
 </table>  
+
 <table>
   <tr>
     <th>S.No</th>
@@ -66,5 +68,16 @@
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/Mathesh099/Rock-Paper-Scissors.git">Rock-Paper-Scissors</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Other Project</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/Mathesh099/Password-Generator.git">Password Generator</a></td>
   </tr>
 </table>
