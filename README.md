@@ -50,6 +50,18 @@
     <td>7.</td>
     <td><a href="https://github.com/Mathesh099/Bill-Splitter.git">Bill Splitter</a></td>
   </tr>
+  <tr>
+    <td>8.</td>
+    <td><a href="https://github.com/Mathesh099/Currency-Converter.git">Currency Converter</a></td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td><a href="https://github.com/Mathesh099/Dominoes.git">Dominoes</a></td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td><a href="https://github.com/Mathesh099/Generating-Randomness.git">Generating Randomness</a></td>
+  </tr>
 </table>  
 
 <table>
@@ -68,6 +80,18 @@
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/Mathesh099/Rock-Paper-Scissors.git">Rock-Paper-Scissors</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/Mathesh099/Duplicate-File-Handler.git">Duplicate File Handler</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/Mathesh099/Web-Scraper.git">Web Scraper</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/Mathesh099/Food-Blog-Backend.git">Food Blog Backend</a></td>
   </tr>
 </table>
 
